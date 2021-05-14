@@ -121,7 +121,7 @@ public class RegistrationForm {
 						@Override
 						public void actionPerformed(ActionEvent e) {
 							if (e.getSource() == btn1) {
-								message.setText("Registration Successful...");
+								message.setText("Registration Successful....");
 
 								String name12 = name1.getText();
 								String mobile = mob1.getText();
